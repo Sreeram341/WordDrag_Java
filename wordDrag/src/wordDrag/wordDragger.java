@@ -2,7 +2,7 @@
  * 
  * File Name : Word Dragger.java
  * 
- * Authors : Sreeram Pulavarthi, Sudheer Tindivanam
+ * Authors : Sreeram Pulavarthi
  * 
  * Group #: 12
  * 
